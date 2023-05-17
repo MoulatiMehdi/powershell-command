@@ -1,5 +1,5 @@
 # GOAL : 
-This command will install all fonts exist in a folder tree. in other words,  iit will search for font files in a folder and its subfolders recursively and then install them 
+This command will install all fonts exist in a folder tree. in other words,  it will search for font files in a folder and its subfolders recursively and then install them 
 # Steps :
 1.Navigate to the folder where the font files are located 
 use `cd` command to change directory 
