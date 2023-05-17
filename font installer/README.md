@@ -7,4 +7,4 @@ use `cd` command to change directory
 ```shell
 cd C:\Users\dell\Downloads
 ```
-1. Copy Paste the Command code into your Windows PowerShell  in the `command` file 
+2. Copy Paste the Command code into your Windows PowerShell  in the `command` file 
