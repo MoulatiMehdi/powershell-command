@@ -4,15 +4,18 @@
 
 This command will install all fonts exist in a folder tree 📁. in other words,  it will search for font files  in a folder and its subfolders recursively and then install them .
 
-# Steps 📓 :  
 
-1. Navigate to the folder where the font files are located 
+# Steps 📓 :  
+1. open your Windows PowerShell (**Run it as an Administrator**)
+2. Navigate to the folder where the font files are located 
 use `cd` command to change directory 
    - for example, if the fonts exist in the `Downloads` file : 
 ```shell
 cd C:\Users\dell\Downloads
 ```
-2. Copy Paste the Command code into your Windows PowerShell  in the [command.ps1](./command.ps1) file 
+3. Copy Paste the Command code into your Windows PowerShell  in the [command.ps1](./command.ps1) file 
 
 # Note 🗒️ : 
-the command will install only font files with `.otf` extension 
+- the command will install only font files with `.otf` extension 
+- you can add more extenstions if you want to .
+- any existed font will be re-installed 
