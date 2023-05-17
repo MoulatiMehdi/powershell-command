@@ -1,5 +1,5 @@
 
-# GOAL 🥅: 
+# GOAL 🎯: 
 
 
 This command will install all fonts exist in a folder tree 📁. in other words,  it will search for font files  in a folder and its subfolders recursively and then install them .
