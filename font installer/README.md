@@ -14,5 +14,5 @@ cd C:\Users\dell\Downloads
 ```
 2. Copy Paste the Command code into your Windows PowerShell  in the `command.ps1` file 
 
-# Note 🗒️: : 
+# Note 🗒️ : 
 the command will install only font files with `.otf` extension 
