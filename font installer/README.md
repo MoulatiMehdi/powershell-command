@@ -15,7 +15,10 @@ cd C:\Users\dell\Downloads
 ```
 3. Copy Paste the Command code into your Windows PowerShell  in the [command.ps1](./command.ps1) file 
 
-# Note 🗒️ : 
+# Notes 🗒️ : 
 - the command will install only font files with `.otf` extension 
-- you can add more extenstions if you want to .
-- any existed font will be re-installed 
+- you can add more extenstions if you want to in front of `*.otf` .
+```ps1
+$fontFiles = Get-ChildItem -Filter *.otf *.ttf  -Recurse
+```
+- any existed font will be re-installed (since we use `-Force`)
